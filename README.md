@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I'm [Your Name]!
+👋 Hi, I'm Nikitha Jacob!
 
 I'm a 4th year Computer Science Engineering student with a passion for coding and problem-solving. My primary programming skills include:
 
